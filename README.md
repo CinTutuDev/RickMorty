@@ -4,8 +4,25 @@
 ### ✔Comienzo el proyecto desde cero con los comandos: 
 ```
  npm install -g @angular/cli
-Ver version
+*Ver version
  ng version
-Crear proyecto 
+*Crear proyecto 
  ng new Breaking-Bad
+```
+
+## ![breakinBAdIco100px](https://user-images.githubusercontent.com/71487857/216125931-0464facc-090a-4251-9737-1ee2389ca9ff.jpg) Creo componente main
+```
+ ng g c pages/main 
+*Lo enruto en app-routing.module
+ const routes: Routes = [
+  {
+    path: '',
+    component: MainComponent
+  },//si es vacia la ruta va a inicio
+  {
+    path:'**',
+    redirectTo: '/',
+  }
+];
+
 ```
