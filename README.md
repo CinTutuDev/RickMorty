@@ -40,6 +40,8 @@
   ng g e environment
   ng g e environment.prod
  ```
+ ## ✔Creo mi interfaces en la url RyM - [URL JSON](https://app.quicktype.io/)
+ 
 ## 🎈Para stilos 
 ### Importo en el index el css de Boostrap - [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 ```
