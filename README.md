@@ -1,5 +1,7 @@
-#  Breaking-Bad 
-![breaking](https://user-images.githubusercontent.com/71487857/216112770-05829518-e2f5-49af-902b-c096938b0042.png)
+#  ![10165892_0 - copia](https://user-images.githubusercontent.com/71487857/216372909-107e2824-dbda-436c-a15c-db62438a90b2.jpg) Rick & Morty
+
+![Rick-And-Morty-Emblema800 - copia](https://user-images.githubusercontent.com/71487857/216371958-ef917f8c-4214-4b2c-ac92-1e72abe6bc1a.jpg)
+
 ## Realizado en ![angular](https://user-images.githubusercontent.com/71487857/212993270-3cf1454e-f0d7-4164-bc01-20d5fe6469cd.png)Angular
 ### ✔Comienzo el proyecto desde cero con los comandos: 
 ```
@@ -14,7 +16,8 @@
  ng new Breaking-Bad
 ```
 
-## ✔Componente main![breakinBAdIco70px](https://user-images.githubusercontent.com/71487857/216269842-219c43fe-dd9d-4b03-875d-8356ce67dc5e.jpg) 
+## ✔Componente main ![blackRicky](https://user-images.githubusercontent.com/71487857/216372377-6ae80cf6-8b60-4e64-8163-88839500ce7f.jpeg)
+
 ```
  ng g c pages/main 
  ```
