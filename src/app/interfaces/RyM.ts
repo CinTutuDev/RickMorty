@@ -11,6 +11,7 @@ export interface Info {
 }
 
 export interface RyM {
+  [x: string]: any;
   id:       number;
   name:     string;
   status:   Status;
