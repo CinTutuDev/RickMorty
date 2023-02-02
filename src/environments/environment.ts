@@ -1,5 +1,5 @@
 export const environment = {
- production: false,
+ production: true,
 /*  apiKey: '0a200e94af064a2d8ad268a931802c59', */
- apiUrl: 'https://www.breakingbadapi.com/api',
+ apiUrl: 'https://rickandmortyapi.com/api/character',
 }
