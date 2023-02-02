@@ -4,8 +4,51 @@
 ### ✔Comienzo el proyecto desde cero con los comandos: 
 ```
  npm install -g @angular/cli
-Ver version
+```
+* Ver version
+```
  ng version
-Crear proyecto 
+ ```
+* Crear proyecto 
+```
  ng new Breaking-Bad
 ```
+
+## ✔Componente main![breakinBAdIco70px](https://user-images.githubusercontent.com/71487857/216269842-219c43fe-dd9d-4b03-875d-8356ce67dc5e.jpg) 
+```
+ ng g c pages/main 
+ ```
+* Lo enruto en app-routing.module
+```
+ const routes: Routes = [
+  {
+    path: '',
+    component: MainComponent
+  },//si es vacia la ruta va a inicio
+  {
+    path:'**',
+    redirectTo: '/',
+  }
+];
+```
+## 🎈Para stilos 
+### Importo en el index el css de Boostrap - [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+```
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+ ```
+ ## 🏎 Arrancar el servidor web
+
+* Ir al directorio frontend y ejecutar el comando
+
+```
+npm start
+    ó
+ng serve    
+```
+
+Para acceder a la aplicación navegar a la URL:
+
+https://localhost:4200
+ 
+ 
+ 
