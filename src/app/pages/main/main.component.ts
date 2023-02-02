@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class MainComponent {
 
+  filter(e:any){
+    const buscardor : string = e.target.value;
+    console.log({buscardor});
+    console.log(buscardor);
+
+  }
+
 }
