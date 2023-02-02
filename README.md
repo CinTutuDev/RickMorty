@@ -1,8 +1,8 @@
 #  ![10165892_0 - copia](https://user-images.githubusercontent.com/71487857/216372909-107e2824-dbda-436c-a15c-db62438a90b2.jpg) Rick & Morty
-
 ![Rick-And-Morty-Emblema800 - copia](https://user-images.githubusercontent.com/71487857/216371958-ef917f8c-4214-4b2c-ac92-1e72abe6bc1a.jpg)
 
 ## Realizado en ![angular](https://user-images.githubusercontent.com/71487857/212993270-3cf1454e-f0d7-4164-bc01-20d5fe6469cd.png)Angular
+## Proyecto guiado por [Yandrak](https://www.youtube.com/watch?v=I6OBjvF41ZY&list=RDLVDNnj4yAo5-g&index=5&ab_channel=Yandrak)
 ### ✔Comienzo el proyecto desde cero con los comandos: 
 ```
  npm install -g @angular/cli
