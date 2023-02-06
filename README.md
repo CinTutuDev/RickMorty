@@ -96,7 +96,7 @@ https://firebase.google.com/?hl=es-419
 
 Para acceder a la aplicación navegar a la URL:
 
-https://localhost:4200
+ * [x]  https://localhost:4200
  
  **Free Software, Hell Yeah!🤘**
  
