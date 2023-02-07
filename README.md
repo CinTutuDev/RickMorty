@@ -15,7 +15,7 @@
  ```
 * Crear proyecto 
 ```
- ng new Breaking-Bad
+ ng new rickmortyangular
 ```
 
 ## ✔Componente main ![blackRicky](https://user-images.githubusercontent.com/71487857/216372377-6ae80cf6-8b60-4e64-8163-88839500ce7f.jpeg)
@@ -45,14 +45,14 @@
  ## ✔Creo mi interfaces en la url RyM - [URL JSON](https://app.quicktype.io/)
  
 ## 🎈Para stilos 
-### Importo en el index el css de Boostrap - [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-### Para box-shadow - [box-shadow](https://getcssscan.com/css-box-shadow-examples)
+ * Importo en el index el css de Boostrap - [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+ * Para box-shadow - [box-shadow](https://getcssscan.com/css-box-shadow-examples)
 ```
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
  ```
  ## 🏎 Arrancar el servidor web
 
-* Ir al directorio frontend y ejecutar el comando
+ * Ir al directorio frontend y ejecutar el comando
 
 ```
 npm start
@@ -93,8 +93,8 @@ https://firebase.google.com/?hl=es-419
     ...
 12º firebase deploy
 ```
-
-Para acceder a la aplicación navegar a la URL:
+ 
+### Para acceder a la aplicación navegar a la URL:
 
  * [x]  https://localhost:4200
  
